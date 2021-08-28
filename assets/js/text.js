@@ -1,5 +1,5 @@
 $(function () {
-    var title = "D3pl0yx"
+    var title = document.title
         , animSeq = ["/", "/", "\\", "|", "/"]
         , animIndex = 0
         , titleIndex = 0;
